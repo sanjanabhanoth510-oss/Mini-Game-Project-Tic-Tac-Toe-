@@ -1,0 +1,9 @@
+# Compiled files
+*.exe
+*.out
+*.o
+tic_tac_toe
+
+# Editor / IDE files
+.vscode/
+.idea/
